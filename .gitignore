@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+*.swp
+*~
+.idea/
+
+# Build artifacts
+build/
+dist/
+
+# Test files
+test-*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
